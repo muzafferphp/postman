@@ -1,0 +1,12 @@
+Set environment for local and live in the post man
+======================================
+https://prnt.sc/rDoWsi095u1H
+
+
+Here javascript for set token in variable
+===========================================
+var jsonData = JSON.parse(responseBody);
+postman.setEnvironmentVariable("token", jsonData.token);
+--------------------------------------------------------
+
+Here is the screenshort - https://prnt.sc/rzmcYE2TSxbT
